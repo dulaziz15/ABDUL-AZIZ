@@ -1,14 +1,7 @@
 <h2 align="left">Hi 🤩! I'm Abdul Aziz and I'm a student, from Polytechnic State of Malang</h2>
 
 ###
-
-<div align="center">
- <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dulaziz15&show_icons=true&theme=tokyonight&locale=en" alt="Abdul Aziz" width="45%"/>
-
   
-
-
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c0/2a/24/c02a24bed910cf3765ce25de9ac6c461.gif"  />
